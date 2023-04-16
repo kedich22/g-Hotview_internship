@@ -1,0 +1,7 @@
+ipywidgets==7.7.1
+numpy==1.23.1
+geemap==0.16.1
+earthengine-api==0.1.317
+ipyleaflet==0.17.0
+colorama==0.4.5
+voila==0.3.6
